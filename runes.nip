@@ -1,0 +1,39 @@
+/**
+ * 2020/12/26
+ * D2 kolbot pickit script
+ *  【runes - 符文】
+ */
+
+//[Name] == El rune  //01
+//[Name] == Eld rune //02
+//[Name] == Tir rune //03
+//[Name] == Nef rune //04
+//[Name] == Eth rune //05
+//[Name] == Ith rune //06
+//[Name] == Tal rune //07
+[Name] == ralrune //08 拉爾
+//[Name] == ortrune   //09 歐特
+//[Name] == thulrune  //10 書爾
+//[Name] == amnrune   //11 安姆
+//[Name] == solrune   //12 索爾
+//[Name] == shaelrune //13 夏
+//[Name] == dolrune //14 多爾
+//[Name] == helrune //15 海爾
+//[Name] == iorune  //16 破
+//[Name] == lumrune //17
+[Name] == korune   //18
+[Name] == falrune  //19
+[Name] == lemrune  //20
+[Name] == pulrune  //21
+[Name] == umrune   //22
+[Name] == malrune  //23
+[Name] == istrune  //24
+[Name] == gulrune  //25
+[Name] == vexrune  //26
+[Name] == ohmrune  //27
+[Name] == lorune   //28
+[Name] == surrune  //29
+[Name] == berrune  //30
+[Name] == jahrune  //31
+[Name] == chamrune //32
+[Name] == zodrune  //33
