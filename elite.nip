@@ -176,7 +176,7 @@
 //�����諸����(Medusa's Gaze)
 [Name] == Ward && [Quality] == Unique
 //��t����(Spirit Ward)
-[Name] == Blade Barrier && [Quality] == Unique
+//[Name] == Blade Barrier && [Quality] == Unique
 //�y��ڷ�(Spike Thorn)
 
 //*****��M*****
@@ -190,9 +190,7 @@
 //���j�Ԥ���
 [Name] == OgreGauntlets && [Quality] == unique # [Defense] >= 270 && [EnhancedDamage] >= 50 && [Strength] >= 19 // Steelrend
 //�H��
-[Name] == OgreGauntlets && [Quality] == unique
-//�H��(Steelrend)
-[Name] == Vambraces && [Quality] == unique
+[Name] == Vambraces && [Quality] == unique # [EnhancedDefense] == 120 && [LifeLeech] == 7 && [ManaLeech] == 7
 //�l���(Soul Drainer)
 [Name] == Battle Gauntlets && [Quality] == unique
 //��������(Lava Gout)
@@ -201,27 +199,24 @@
 [Name] == Heavy Gloves && [Quality] == unique # [EnhancedDefense] == 20 //血拳(Bloodfist)
 
 //*****�c�l*****
-[Name] == Boots && [Quality] == Unique
+[Name] == Boots && [Quality] == Unique # [EnhancedDefense] == 20
 //���u��
-[Name] == Demonhide Boots && [Quality] == Unique # [EnhancedDefense] >= 210 && [itemgoldbonus] == 70
+[Name] == Demonhide Boots && [Quality] == Unique # [EnhancedDefense] == 150 && [itemgoldbonus] == 70
 //�a����B(70%����)
-[Name] == Demonhide Boots && [Quality] == Unique
+//[Name] == Demonhide Boots && [Quality] == Unique
 //�a����B(Infernostride)
-[Name] == Sharkskin Boots && [Quality] == Unique && [Flag] != ethereal # [MaxHP] == 65
+[Name] == Sharkskin Boots && [Quality] == Unique && [Flag] != ethereal # [EnhancedDefense] == 210 && [MaxHP] == 65
 //���W��(65�R�A����)
-[Name] == Sharkskin Boots && [Quality] == Unique
+//[Name] == Sharkskin Boots && [Quality] == Unique
 //���W��
-[Name] == Mesh Boots && [Quality] == Unique
+[Name] == Mesh Boots && [Quality] == Unique # [EnhancedDefense] == 190
 //�F´
-[Name] == Battle Boots && [Quality] == Unique
+[Name] == Battle Boots && [Quality] == Unique # [EnhancedDefense] == 190 && [ItemMagicBonus] == 50
 //�Ԫ��Ȫ�(War Traveler)
-[Name] == WarBoots && [Quality] == unique 
-//�k���M�h(Gore Rider)
-[Name] == Scarabshell Boots && [Quality] == Unique # [Strength] == 15 //沙暴  Sandstorm Trek
-
-[Name] == Scarabshell Boots && [Quality] == Unique && [Flag] == ethereal
+[Name] == WarBoots && [Quality] == unique # [EnhancedDefense] == 200 //Gore Rider/War Boots --- 蝕肉騎士/巨戰之靴
+[Name] == Scarabshell Boots && [Quality] == Unique # [EnhancedDefense] == 170 && [Strength] == 15 && [PoisonResist] == 70 //沙暴  Sandstorm Trek
 //�F�ɤ���(�L��)
-[Name] == Boneweave Boots && [Quality] == Unique
+[Name] == Boneweave Boots && [Quality] == Unique # [EnhancedDefense] == 200 && [Strength] == 20
 //���H�樫(Marrowwalk)
 [Name] == Myrmidon Greaves && [Quality] == Unique
 //�v�R��(Shadow Dancer)
