@@ -97,7 +97,7 @@
 //****** �W�S�˳� ���� ****** [u01]
 
 //*****�Y��*****
-[Name] == War Hat && [Quality] == Unique
+//[Name] == War Hat && [Quality] == Unique
 //[Name] == Casque && [Quality] == Unique
 [Name] == Death Mask && [Quality] == Unique && [Flag] == ethereal
 //[Name] == Death Mask && [Quality] == Unique //黑角面具-死亡面具-Blackhorn's Face
@@ -114,7 +114,7 @@
 [Name] == Diadem && [Quality] == Unique
 
 //*****����*****
-[Name] ==SerpentskinArmor && [Quality] == unique
+[Name] ==SerpentskinArmor && [Quality] == unique # [39] == 35
 //�D�]�k�v����(Skin of the Vipermagi)
 [Name] == Cuirass && [Quality] == Unique && [Flag] == ethereal
 //���纸����(�L��)
@@ -367,8 +367,8 @@
 // Thunderstroke/Matriarchal Javelin ---- 雷擊/女族長之標槍
 [Name] == Matriarchal Javelin && [Quality] == Unique && [Flag] != ethereal
 
-[Name] == Balrog Spear && [Quality] == Unique
-//�c�]����(Demon's Arch)
+[Name] == Balrog Spear && [Quality] == Unique && [Flag] == ethereal //Demon's Arch/Balrog Spear ---- 惡魔之王/炎魔長矛
+
 [Name] == Ghost Glaive && [Quality] == Unique
 //���F�]��(Wraith Flight)
 [Name] == Winged Harpoon && [Quality] == Unique
