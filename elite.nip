@@ -101,7 +101,7 @@
 //[Name] == Casque && [Quality] == Unique
 [Name] == Death Mask && [Quality] == Unique && [Flag] == ethereal
 //[Name] == Death Mask && [Quality] == Unique //黑角面具-死亡面具-Blackhorn's Face
-[Name] == Winged Helm && [Quality] == Unique
+[Name] == Winged Helm && [Quality] == Unique # [EnhancedDefense] == 200 // 女神之翼
 [Name] == Armet && [Quality] == Unique
 [Name] == Grand Crown && [Quality] == Unique && [Flag] != ethereal # [itemgoldbonus] == 100
 [name] == grimhelm && [quality] == unique && [flag] == ethereal # [lifeleech] == 8 && [manaleech] == 8 && [magicdamagereduction] == 15 && [damageresist] >= 20 // vampgaze eth
@@ -346,7 +346,7 @@
 //*****�]��*****
 //[Name] == Grim Wand && [Quality] == Unique
 //�Q�̪��E��
-[Name] == Burnt Wand && [Quality] == Unique
+//[Name] == Burnt Wand && [Quality] == Unique
 //�۱���t
 [Name] == Tomb Wand && [Quality] == Unique
 //������J�����Z��
@@ -377,7 +377,7 @@
 //*****��*****
 [Name] == Greater Talons && [Quality] == Unique
 //�گS�J���r��
-[Name] == Battle Cestus && [Quality] == Unique
+[Name] == Battle Cestus && [Quality] == Unique # [EnhancedDamage] == 220
 //�v����(Shadow Killer)
 [Name] == Wrist Sword && [Quality] == Unique
 //�ѥɤ�(Jade Talon)
