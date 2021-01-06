@@ -49,18 +49,18 @@
 //���_��
 //[Name] == Skull
 //�u�\
-//[Name] == Flawless Diamond
+//[Name] == Flawless Diamond //無瑕疵鑽石
 //�L�岫���p��
-//[Name] == Flawless Ruby
+//[Name] == Flawless Ruby //無瑕疵紅寶
 //�L�岫�����_��
-//[Name] == Flawless Topaz
+//[Name] == Flawless Topaz //無瑕疵黃寶
 //�L�岫�����_��
-//[Name] == Flawless Emerald
+//[Name] == Flawless Emerald  //無瑕疵綠寶
 //�L�岫�����_��
-//[Name] == Flawless Sapphire
+//[Name] == Flawless Sapphire  //無瑕疵藍寶
 //�L�岫�����_��
-[Name] == Flawless Amethyst
-//�L�岫�����_��
+//[Name] == Flawless Amethyst //無瑕疵紫寶
+
 //[Name] == Flawless Skull
 //�L�岫���u�\
 [Name] == Perfect Diamond
@@ -170,7 +170,7 @@
 //*****�޵P*****
 //[Name] == Round Shield && [Quality] == Unique
 //���诬�֤���
-[Name] == Grim Shield && [Quality] == Unique
+//[Name] == Grim Shield && [Quality] == Unique
 //ĵ�٤���
 [Name] == Monarch && [Quality] == Unique
 //�ɭ�����(Stormshield)
@@ -232,9 +232,9 @@
 //���ꤧ��(����)
 [Name] == Mesh Belt && [Quality] == Unique
 //���v����(Gloom's Trap)
-[Name] == Battle Belt && [Quality] == Unique
+//[Name] == Battle Belt && [Quality] == Unique
 //�����Ĭ�
-[Name] == WarBelt && [Quality] == unique 
+[Name] == WarBelt && [Quality] == unique # [EnhancedDefense] == 200
 //�p�����O
 [Name] == Spiderweb Sash && [Quality] == Unique //Arachnid Mesh---蛛網 
 
@@ -383,9 +383,9 @@
 //�گS�J���r��
 [Name] == Battle Cestus && [Quality] == Unique # [EnhancedDamage] == 220
 //�v����(Shadow Killer)
-[Name] == Wrist Sword && [Quality] == Unique
+[Name] == Wrist Sword && [Quality] == Unique # [EnhancedDamage] == 240
 //�ѥɤ�(Jade Talon)
-[Name] == Feral Claws && [Quality] == Unique
+[Name] == Feral Claws && [Quality] == Unique # [EnhancedDamage] == 270
 //���h�i����(Firelizard's Talons)
 
 
