@@ -21,7 +21,7 @@
 //�H�������_��
 //[Name] == Chipped Skull
 //�H�����u�\
-//[Name] == Flawed Diamond
+[Name] == Flawed Diamond # # [maxquantity] == 1
 //���}���p��
 //[Name] == Flawed Ruby
 //���}�����_��
@@ -37,9 +37,9 @@
 //���}���u�\
 //[Name] == Diamond
 //�p��
-//[Name] == Ruby
+[Name] == Ruby # # [maxquantity] == 1
 //���_��
-//[Name] == Topaz
+[Name] == Topaz # # [maxquantity] == 1
 //���_��
 //[Name] == Emerald
 //���_��
@@ -77,6 +77,10 @@
 //���������_��
 [Name] == Perfect Skull
 //�������u�\
+
+
+
+
 //[Name] == Amulet && [Quality] == Magic && [Level] >= 94
 //�Ŧⶵ��
 //[Name] == Light Belt && [Quality] == Magic && [Level] >= 94
@@ -1874,12 +1878,12 @@
 //[Name] == Lum rune
 //[Name] == ko rune   //18
 //[Name] == fal rune  //19
-[Name] == lem rune  //20
-[Name] == pul rune  //21
-[Name] == um rune   //22
+//[Name] == lem rune  //20
+[Name] == pul rune # # [maxquantity] == 2  //21
+[Name] == um rune # # [maxquantity] == 2   //22
 [Name] == mal rune  //23
 [Name] == ist rune  //24
-[Name] == gul rune  //25
+[Name] == gul rune # # [maxquantity] == 2 //25
 [Name] == vex rune  //26
 [Name] == ohm rune  //27
 [Name] == lo rune   //28
