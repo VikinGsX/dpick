@@ -172,11 +172,11 @@
 //���诬�֤���
 //[Name] == Grim Shield && [Quality] == Unique
 //ĵ�٤���
-[Name] == Monarch && [Quality] == Unique
-//�ɭ�����(Stormshield)
+//[Name] == Monarch && [Quality] == Unique
+//統治者大盾(Stormshield)
 //[Name] == Troll Nest && [Quality] == Unique && [Flag] == ethereal # [Sockets] == 3
 //�y�Y�H���aģ
-[Name] == Aegis && [Quality] == Unique
+[Name] == Aegis && [Quality] == Unique # [EnhancedDefense] == 180
 //�����諸����(Medusa's Gaze)
 [Name] == Ward && [Quality] == Unique
 //��t����(Spirit Ward)
@@ -186,7 +186,7 @@
 //*****��M*****
 [Name] == ChainGloves && [Quality] == unique && [Flag] != ethereal # [EnhancedDefense] >= 30 && [ItemMagicBonus] >= 40 // Chance Guards
 //�B��u�@(40%���_)
-[Name] == Light Gauntlets && [Quality] == Unique # [EnhancedDefense] == 30
+//[Name] == Light Gauntlets && [Quality] == Unique # [EnhancedDefense] == 30
 //Frostburn/Gauntlets----- 霜燃(20%ED)
 [Name] == Gauntlets && [Quality] == Unique # [EnhancedDefense] == 20
 //���U
@@ -284,7 +284,7 @@
 [Name] == Ward Bow && [Quality] == Unique
 //[Name] == Rune Bow && [Quality] == Unique //Magewrath/Rune Bow ---- 巫師之怒/符文之弓
 //[Name] == Long Bow && [Quality] == Unique //
-[Name] == Matriarchal Bow && [Quality] == Unique
+//[Name] == Matriarchal Bow && [Quality] == Unique
 
 
 
