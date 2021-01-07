@@ -106,7 +106,7 @@
 [Name] == Death Mask && [Quality] == Unique && [Flag] == ethereal
 //[Name] == Death Mask && [Quality] == Unique //黑角面具-死亡面具-Blackhorn's Face
 [Name] == Winged Helm && [Quality] == Unique # [EnhancedDefense] == 200 // 女神之翼
-[Name] == Armet && [Quality] == Unique
+[Name] == Armet && [Quality] == Unique # [EnhancedDefense] == 130 && [ManaLeech] == 8 //鋼影
 [Name] == Grand Crown && [Quality] == Unique && [Flag] != ethereal # [itemgoldbonus] == 100
 [name] == grimhelm && [quality] == unique && [flag] == ethereal # [lifeleech] == 8 && [manaleech] == 8 && [magicdamagereduction] == 15 && [damageresist] >= 20 // vampgaze eth
 [Name] == Shako && [Quality] == Unique # [Defense] >= 130
@@ -188,7 +188,7 @@
 //�B��u�@(40%���_)
 //[Name] == Light Gauntlets && [Quality] == Unique # [EnhancedDefense] == 30
 //Frostburn/Gauntlets----- 霜燃(20%ED)
-[Name] == Gauntlets && [Quality] == Unique # [EnhancedDefense] == 20
+//[Name] == Gauntlets && [Quality] == Unique # [EnhancedDefense] == 20
 //���U
 [Name] == VampireboneGloves && [Quality] == unique # [EnhancedDefense] >= 110 && [Strength] >= 15 && [LifeLeech] >= 10
 //���j�Ԥ���
@@ -363,8 +363,10 @@
 
 // Titan's Revenge/Ceremonial Javelin ---- 泰坦的復仇/祭典之標槍
 [Name] == Ceremonial Javelin && [Quality] == Unique && [Flag] == ethereal 
+
 // Thunderstroke/Matriarchal Javelin ---- 雷擊/女族長之標槍
-[Name] == Matriarchal Javelin && [Quality] == Unique && [Flag] != ethereal
+[Name] == Matriarchal Javelin && [Quality] == Unique && [Flag] == ethereal
+[Name] == Matriarchal Javelin && [Quality] == Unique # [EnhancedDamage] == 200
 
 [Name] == Balrog Spear && [Quality] == Unique && [Flag] == ethereal //Demon's Arch/Balrog Spear ---- 惡魔之王/炎魔長矛
 
@@ -379,7 +381,7 @@
 
 
 //*****��*****
-[Name] == Greater Talons && [Quality] == Unique
+[Name] == Greater Talons && [Quality] == Unique # [EnhancedDamage] == 200 && [LifeLeech] == 9
 //�گS�J���r��
 [Name] == Battle Cestus && [Quality] == Unique # [EnhancedDamage] == 220
 //�v����(Shadow Killer)
@@ -420,14 +422,13 @@
 //���`�`��
 
 //*****�w�|���Y*****
-[Name] == Totemic Mask && [Quality] == Unique
-//�[�������v
+[Name] == Totemic Mask && [Quality] == Unique # [EnhancedDefense] == 200 //加爾的長髮
 [Name] == Blood Spirit && [Quality] == Unique
 //�a�����k
 [Name] == Earth Spirit && [Quality] == Unique
 //�F��ݦu��
-[Name] == Sky Spirit && [Quality] == Unique
-//�Q�~����
+[Name] == Sky Spirit && [Quality] == Unique //烏鴉之王
+
 
 //*****�t�M��*****
 [Name] == Gilded Shield && [Quality] == Unique
