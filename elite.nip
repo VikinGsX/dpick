@@ -109,7 +109,7 @@
 [Name] == Armet && [Quality] == Unique # [EnhancedDefense] == 130 && [ManaLeech] == 8 //鋼影
 [Name] == Grand Crown && [Quality] == Unique && [Flag] != ethereal # [itemgoldbonus] == 100
 [name] == grimhelm && [quality] == unique && [flag] == ethereal # [lifeleech] == 8 && [manaleech] == 8 && [magicdamagereduction] == 15 && [damageresist] >= 20 // vampgaze eth
-[Name] == Shako && [Quality] == Unique # [Defense] >= 130
+//[Name] == Shako && [Quality] == Unique # [Defense] >= 130 //軍帽
 [Name] == Spired Helm && [Quality] == Unique 
 [Name] == Demonhead && [Quality] == unique //# [EnhancedDefense] >= 140 && [LifeLeech] >= 10 && [Strength] >= 30 
 [Name] == Corona && [Quality] == Unique
@@ -126,7 +126,7 @@
 //�¤үS���Z��(����220%ED)
 [Name] == Mesh Armor && [Quality] == Unique && [Flag] == ethereal 
 //�¤үS���Z��(�L��)
-[Name] == Russet Armor && [Quality] == Unique
+//[Name] == Russet Armor && [Quality] == Unique
 //�ֱF��������
 [Name] == Russet Armor && [Quality] == Unique && [Flag] == ethereal
 //�ֱF��������
@@ -230,7 +230,7 @@
 //����]��(80%���_�A����)
 [Name] == Demonhide Sash && [Quality] == Unique && [Flag] != ethereal # [EnhancedDefense] == 180 && [LifeLeech] == 8 && [DamageResist] == 15 && [Magicdamagereduction] == 15
 //���ꤧ��(����)
-[Name] == Mesh Belt && [Quality] == Unique
+//[Name] == Mesh Belt && [Quality] == Unique
 //���v����(Gloom's Trap)
 //[Name] == Battle Belt && [Quality] == Unique
 //�����Ĭ�
@@ -313,10 +313,10 @@
 
 
 //*****�v��*****
-[Name] == MightyScepter && [Quality] == unique
+[Name] == MightyScepter && [Quality] == unique # [EnhancedDamage] >= 280
 //�b����(�]���i��O�Ѱ󤧥�)(The Redeemer//Heaven's Light)
 [Name] == Caduceus && [Quality] == unique
-//�R���S�s���K���O�@��(Astreon's Iron Ward)
+//Astreon's Iron Ward/Caduceus ----- 愛斯特龍之鐵的保護區/神使之杖
 
 
 //*****���j*****
@@ -344,7 +344,7 @@
 //*****���Y�Z��*****
 [Name] == Winged Knife && [Quality] == Unique && [Flag] != ethereal
 //�Ԫ�����(���L��)
-[Name] == Winged Axe && [Quality] == Unique && [Flag] != ethereal
+[Name] == Winged Axe && [Quality] == Unique && [Flag] == ethereal //翼斧
 //������(�L��)
 
 //*****�]��*****
@@ -414,7 +414,7 @@
 
 
 //*****�k�v�M�Χ�*****
-[Name] == Swirling Crystal && [Quality] == Unique
+//[Name] == Swirling Crystal && [Quality] == Unique
 //���y
 [Name] == Eldritch Orb && [Quality] == Unique # [Sorceress Skills] == 3
 //�㴵�}�𪺵ʮ�(+3��)
