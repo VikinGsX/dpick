@@ -27,7 +27,7 @@
 //���}�����_��
 //[Name] == Flawed Topaz
 //���}�����_��
-//[Name] == Flawed Emerald
+[Name] == Flawed Emerald # # [maxquantity] == 1
 //���}�����_��
 //[Name] == Flawed Sapphire
 //���}�����_��
@@ -45,7 +45,7 @@
 //���_��
 //[Name] == Sapphire
 //���_��
-//[Name] == Amethyst
+[Name] == Amethyst # # [maxquantity] == 3
 //���_��
 //[Name] == Skull
 //�u�\
@@ -186,7 +186,7 @@
 //*****��M*****
 [Name] == ChainGloves && [Quality] == unique && [Flag] != ethereal # [EnhancedDefense] >= 30 && [ItemMagicBonus] >= 40 // Chance Guards
 //�B��u�@(40%���_)
-//[Name] == Light Gauntlets && [Quality] == Unique # [EnhancedDefense] == 30
+[Name] == Light Gauntlets && [Quality] == Unique # # [maxquantity] == 1 
 //Frostburn/Gauntlets----- 霜燃(20%ED)
 //[Name] == Gauntlets && [Quality] == Unique # [EnhancedDefense] == 20
 //���U
@@ -370,7 +370,7 @@
 
 [Name] == Balrog Spear && [Quality] == Unique && [Flag] == ethereal //Demon's Arch/Balrog Spear ---- 惡魔之王/炎魔長矛
 
-[Name] == Ghost Glaive && [Quality] == Unique
+[Name] == Ghost Glaive && [Quality] == Unique # [EnhancedDamage] == 190 && [Lifeleech] == 13
 //���F�]��(Wraith Flight)
 [Name] == Winged Harpoon && [Quality] == Unique
 //�۹�������(Gargoyle's Bite)
@@ -422,7 +422,7 @@
 //���`�`��
 
 //*****�w�|���Y*****
-[Name] == Totemic Mask && [Quality] == Unique # [EnhancedDefense] == 200 //加爾的長髮
+[Name] == Totemic Mask && [Quality] == Unique && [flag] == identified # [EnhancedDefense] == 200 //加爾的長髮
 [Name] == Blood Spirit && [Quality] == Unique
 //�a�����k
 [Name] == Earth Spirit && [Quality] == Unique
@@ -515,7 +515,7 @@
 //��.�ԮL���P�M
 //[Name] == Battle Boots && [Quality] == set
 //�㺸�h������
-//[Name] == Heavy Bracers && [Quality] == set
+[Name] == Heavy Bracers && [Quality] == set # # [maxquantity] == 1
 //��������
 //[Name] == Leather Gloves && [Quality] == set
 //���`����
@@ -1879,7 +1879,7 @@
 //[Name] == Lum rune
 //[Name] == ko rune   //18
 //[Name] == fal rune  //19
-//[Name] == lem rune  //20
+[Name] == lem rune # # [maxquantity] == 3  //20
 [Name] == pul rune # # [maxquantity] == 2  //21
 [Name] == um rune # # [maxquantity] == 2   //22
 [Name] == mal rune  //23
