@@ -521,7 +521,7 @@
 //���`����
 //[Name] == Sash && [Quality] == set
 //���`���u�@
-//[Name] == Winged Helm && [Quality] == set
+[Name] == Winged Helm && [Quality] == set # # [maxquantity] == 1
 //�N�ê��y
 //[Type] == amulet && [Quality] == set # [ItemAllSkills] == 1 && [ColdResist] == 18
 //�z�����]
@@ -1674,7 +1674,7 @@
 //�����C(5�}�A�L��)
 //[Name] == Crystal Sword && [Quality] <= Superior # [Sockets] == 6
 //�����C(6�}))
-//[Name] == Flail && [Quality] <= Superior # ([Sockets] == 4 || [Sockets] == 5)
+[Name] == Flail && [Quality] <= Superior && [Flag] != ethereal # ([Sockets] == 4 || [Sockets] == 5) # [maxquantity] == 1
 //�s�E(5�})
 [Name] == Phase Blade && [Quality] == Superior # [EnhancedDamage] == 15 && ([Sockets] == 0 || [Sockets] == 6)
 //�ۤƤ��b(0/6�}�A15%ED)
