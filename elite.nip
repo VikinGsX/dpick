@@ -45,7 +45,7 @@
 //���_��
 //[Name] == Sapphire
 //���_��
-[Name] == Amethyst # # [maxquantity] == 3
+[Name] == Amethyst # # [maxquantity] == 1
 //���_��
 //[Name] == Skull
 //�u�\
@@ -186,7 +186,7 @@
 //*****��M*****
 [Name] == ChainGloves && [Quality] == unique && [Flag] != ethereal # [EnhancedDefense] >= 30 && [ItemMagicBonus] >= 40 // Chance Guards
 //�B��u�@(40%���_)
-[Name] == Light Gauntlets && [Quality] == Unique # # [maxquantity] == 1 
+//[Name] == Light Gauntlets && [Quality] == Unique # # [maxquantity] == 1 
 //Frostburn/Gauntlets----- 霜燃(20%ED)
 //[Name] == Gauntlets && [Quality] == Unique # [EnhancedDefense] == 20
 //���U
@@ -264,7 +264,7 @@
 //*****���Y*****
 [Name] == Ettin Axe && [Quality] == Unique && [Flag] == ethereal # [Sockets] == 5
 //�Ť�j�v(5�}�A�L��)
-[Name] == Ettin Axe && [Quality] == Unique
+//[Name] == Ettin Axe && [Quality] == Unique
 //�Ť�j�v(Rune Master)
 [Name] == Berserker Axe && [Quality] == Unique && [Flag] != ethereal # [EnhancedDamage] == 280
 //���`���M(280%ED�A����)
@@ -374,7 +374,7 @@
 //���F�]��(Wraith Flight)
 [Name] == Winged Harpoon && [Quality] == Unique
 //�۹�������(Gargoyle's Bite)
-[Name] == Matriarchal Spear && [Quality] == Unique
+[Name] == Matriarchal Spear && [Quality] == Unique # [EnhancedDamage] == 280
 //�ۯQ�~(Stoneraven)
 
 
@@ -446,7 +446,7 @@
 //���U���٫�
 [Type] == ring && [Quality] == Unique # [77] == 25
 //�줦����
-[Type] == ring && [Quality] == Unique # [MaxHP] == 40 && [MagicDamageReduction] == 15
+//[Type] == ring && [Quality] == Unique # [MaxHP] == 40 && [MagicDamageReduction] == 15
 //�G�H���P
 [Type] == ring && [Quality] == Unique # [2] == 20  //&& [Tohit] >= 240
 //�Q�~����
@@ -515,7 +515,7 @@
 //��.�ԮL���P�M
 //[Name] == Battle Boots && [Quality] == set
 //�㺸�h������
-[Name] == Heavy Bracers && [Quality] == set # # [maxquantity] == 1
+//[Name] == Heavy Bracers && [Quality] == set # # [maxquantity] == 1
 //��������
 //[Name] == Leather Gloves && [Quality] == set
 //���`����
