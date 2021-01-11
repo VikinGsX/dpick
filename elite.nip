@@ -114,7 +114,7 @@
 [Name] == Demonhead && [Quality] == unique //# [EnhancedDefense] >= 140 && [LifeLeech] >= 10 && [Strength] >= 30 
 [Name] == Corona && [Quality] == Unique
 [Name] == Bone Visage && [Quality] == Unique # [Sockets] == 2
-[Name] == Tiara && [Quality] == Unique
+[Name] == Tiara && [Quality] == Unique # [39] == 70
 [Name] == Diadem && [Quality] == Unique
 
 //*****����*****
@@ -431,7 +431,7 @@
 
 
 //*****�t�M��*****
-[Name] == Gilded Shield && [Quality] == Unique
+[Name] == Gilded Shield && [Quality] == Unique # [EnhancedDefense] == 200
 //���d���i�Ϫ�
 [Name] == Gilded Shield && [Quality] == Unique && [Flag] == ethereal
 //���d���i�Ϫ�(�L��)
@@ -521,7 +521,7 @@
 //���`����
 //[Name] == Sash && [Quality] == set
 //���`���u�@
-[Name] == Winged Helm && [Quality] == set # # [maxquantity] == 1
+//[Name] == Winged Helm && [Quality] == set # # [maxquantity] == 1
 //�N�ê��y
 //[Type] == amulet && [Quality] == set # [ItemAllSkills] == 1 && [ColdResist] == 18
 //�z�����]
