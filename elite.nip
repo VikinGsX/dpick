@@ -698,7 +698,7 @@
 //101�r�H�W
 
 //*****�p�� �ں��p��*****
-//[Name] == Small charm && [Quality] == Magic && [Level] == 99
+[Name] == Small charm && [Quality] == Magic && [Level] >= 95
 //�ں��p��
 
 //****** �]�_ ���� ****** [j01]
