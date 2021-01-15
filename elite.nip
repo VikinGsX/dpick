@@ -35,48 +35,41 @@
 //���}�����_��
 //[Name] == Flawed Skull
 //���}���u�\
-//[Name] == Diamond
+[Name] == Diamond # # [maxquantity] == 1
 //�p��
 [Name] == Ruby # # [maxquantity] == 1
 //���_��
 [Name] == Topaz # # [maxquantity] == 1
 //���_��
-//[Name] == Emerald
+[Name] == Emerald # # [maxquantity] == 1
 //���_��
-//[Name] == Sapphire
+[Name] == Sapphire # # [maxquantity] == 1
 //���_��
 [Name] == Amethyst # # [maxquantity] == 1
 //���_��
 //[Name] == Skull
 //�u�\
-//[Name] == Flawless Diamond //無瑕疵鑽石
+[Name] == Flawless Diamond //無瑕疵鑽石
 //�L�岫���p��
-//[Name] == Flawless Ruby //無瑕疵紅寶
+[Name] == Flawless Ruby //無瑕疵紅寶
 //�L�岫�����_��
-//[Name] == Flawless Topaz //無瑕疵黃寶
+[Name] == Flawless Topaz //無瑕疵黃寶
 //�L�岫�����_��
-//[Name] == Flawless Emerald  //無瑕疵綠寶
+[Name] == Flawless Emerald  //無瑕疵綠寶
 //�L�岫�����_��
-//[Name] == Flawless Sapphire  //無瑕疵藍寶
+[Name] == Flawless Sapphire  //無瑕疵藍寶
 //�L�岫�����_��
-//[Name] == Flawless Amethyst //無瑕疵紫寶
+[Name] == Flawless Amethyst //無瑕疵紫寶
 
 //[Name] == Flawless Skull
-//�L�岫���u�\
 [Name] == Perfect Diamond
-//�������p��
 [Name] == Perfect Ruby
-//���������_��
 [Name] == Perfect Topaz
-//���������_��
 [Name] == Perfect Emerald
-//���������_��
 [Name] == Perfect Sapphire
-//���������_��
 [Name] == Perfect Amethyst
-//���������_��
 [Name] == Perfect Skull
-//�������u�\
+
 
 
 
