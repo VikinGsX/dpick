@@ -1859,18 +1859,18 @@
 //[Name] == Nef rune
 //[Name] == Eth rune
 //[Name] == Ith rune
-//[Name] == Tal rune
-//[Name] == Ral Rune
-//[Name] == Ort Rune
-//[Name] == Thul Rune
-//[Name] == Amn rune
+[Name] == Tal rune # # [maxquantity] == 1
+[Name] == Ral Rune # # [maxquantity] == 1
+[Name] == Ort Rune # # [maxquantity] == 1
+[Name] == Thul Rune # # [maxquantity] == 1
+[Name] == Amn rune # # [maxquantity] == 1
 //[Name] == Sol rune
 //[Name] == Shael rune
-//[Name] == Dol rune
-//[Name] == Hel rune
+[Name] == Dol rune # # [maxquantity] == 1
+[Name] == Hel rune # # [maxquantity] == 1
 //[Name] == Io rune
 //[Name] == Lum rune
-//[Name] == ko rune   //18
+[Name] == ko rune # # [maxquantity] == 1   //18
 //[Name] == fal rune  //19
 [Name] == lem rune # # [maxquantity] == 3  //20
 [Name] == pul rune # # [maxquantity] == 2  //21
